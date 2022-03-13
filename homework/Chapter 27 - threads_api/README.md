@@ -19,6 +19,7 @@ for more details on how that works.
 
 Then, you have a few different C programs to look at:
 - `main-race.c`: A simple race condition
+	- `main-norace.c` is a modified verison of `main-race.c` which uses mutex lock to erase race conditions.
 - `main-deadlock.c`: A simple deadlock
 - `main-deadlock-global.c`: A solution to the deadlock problem
 - `main-signal.c`: A simple child/parent signaling example
@@ -26,7 +27,6 @@ Then, you have a few different C programs to look at:
 - `common_threads.h`: Header file with wrappers to make code check errors and be more readable
 
 With these programs, you can now answer the questions in the textbook.
-
 
 
 

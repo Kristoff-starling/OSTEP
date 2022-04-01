@@ -46,7 +46,7 @@ Book Notes and homework solutions are available in my blogs. Follow the liks for
 28. Locks
 29. [Lock-based Concurrent Data Structures](https://kristoff-starling.github.io/2022/02/25/OSTEP/OSTEP%20Chapter%2029%20-%20Lock-based%20Concurrent%20Data%20Structures/)
 30. [Condition Variables](https://kristoff-starling.github.io/2022/02/22/OSTEP/OSTEP%20Chapter%2030%20-%20Condition%20Variables/)
-31. Semaphores
+31. [Semaphores](https://kristoff-starling.github.io/2022/02/21/OSTEP/OSTEP%20Chapter%2031%20-%20Semaphores/)
 32. Common Concurrency Problems
 33. Event-based Concurrency (Advanced)
 34. Summary Dialogue on Concurrency

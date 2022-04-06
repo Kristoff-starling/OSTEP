@@ -41,7 +41,7 @@ Book Notes and homework solutions are available in my blogs. Follow the liks for
 ### II. Concurrency
 
 25. A Dialogue on Concurrency
-26. [Concurrency: An Introduction](https://kristoff-starling.github.io/2022/02/26/OSTEP/OSTEP%20Chapter%2026%20-%20Concurrency%20An%20Introduction/)
+26. [Concurrency: An Introduction](https://kristoff-starling.github.io/2022/02/26/OSTEP/OSTEP%20Chapter%2026%20-%20Concurrency%20An%20Introduction/) | [Homework](https://kristoff-starling.github.io/2022/02/26/OSTEP/OSTEP%20Homework%2026/)
 27. [Interlude: Thread API](https://kristoff-starling.github.io/2022/02/25/OSTEP/OSTEP%20Chapter%2027%20-%20Interlude%20-%20Thread%20API/) | [Homework](https://kristoff-starling.github.io/2022/02/25/OSTEP/OSTEP%20Homework%2027/)
 28. Locks
 29. [Lock-based Concurrent Data Structures](https://kristoff-starling.github.io/2022/02/23/OSTEP/OSTEP%20Chapter%2029%20-%20Lock-based%20Concurrent%20Data%20Structures/)

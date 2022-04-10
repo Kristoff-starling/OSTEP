@@ -29,7 +29,7 @@ Book Notes and homework solutions are available in my blogs. Follow the liks for
 14. Interlude: Memory API
 15. Mechanism: Address Translation
 16. Segmentation
-17. Free-Space Management
+17. [Free-Space Management](https://kristoff-starling.github.io/2022/03/07/OSTEP/OSTEP%20Chapter%2017%20-%20Free%20Space%20Management/)
 18. Paging: Introduction
 19. Paging: Faster Translations (TLBs)
 20. Paging: Smaller Tables

@@ -16,8 +16,8 @@ Book Notes and homework solutions are available in my blogs. Follow the liks for
 ### I. Virtualization
 
 3. A Dialogue on Virtualization
-4. The Abstraction: The Process
-5. Interlude: Process API
+4. [The Abstraction: The Process](https://kristoff-starling.github.io/2022/03/20/OSTEP/OSTEP%20Chapter%2004%20-%20The%20Abstraction%20-%20The%20Process/)
+5. [Interlude: Process API](https://kristoff-starling.github.io/2022/03/19/OSTEP/OSTEP%20Chapter%2005%20-%20Interlude%20-%20Process%20API/)
 6. Mechanism: Limited Direct Execution
 7. Scheduling: Introduction
 8. Scheduling: The Multi-Level Feedback Queue
